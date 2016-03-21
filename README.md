@@ -10,3 +10,5 @@
 * http://styletil.es/
 * http://alistapart.com/article/style-tiles-and-how-they-work
 * http://www.sketchcasts.net/episodes/working-with-bootstrap 
+* [Youtube Sketch Tutorial Series](https://www.youtube.com/playlist?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)
+* [Udemy Sketch Tutorial Series ($89)](https://www.udemy.com/learn-sketch-design/#%2F)
